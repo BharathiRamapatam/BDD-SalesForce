@@ -1,0 +1,15 @@
+18/12/2015 12:10:11 devpinoyLogger Hello from logger
+18/12/2015 12:10:11 devpinoyLogger initilising properties files 
+18/12/2015 12:10:11 devpinoyLogger Hello from logger
+18/12/2015 12:10:11 devpinoyLogger initilising properties files 
+18/12/2015 12:10:15 devpinoyLogger Hello from logger
+18/12/2015 12:10:15 devpinoyLogger initilising properties files 
+18/12/2015 12:10:15 devpinoyLogger Hello from logger
+18/12/2015 12:10:15 devpinoyLogger initilising properties files 
+18/12/2015 12:10:18 devpinoyLogger Executing create Menu test --- login
+18/12/2015 12:10:18 devpinoyLogger Navigating to url
+18/12/2015 12:10:24 devpinoyLogger execution login functiion from webconnector
+18/12/2015 12:10:28 devpinoyLogger Navigating to Feeds page
+18/12/2015 12:10:38 devpinoyLogger clicking on feeds - file button
+18/12/2015 12:10:40 devpinoyLogger click on upload button
+18/12/2015 12:10:41 devpinoyLogger uploading file
